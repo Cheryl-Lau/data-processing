@@ -1,6 +1,11 @@
 # data-processing 
 
-These python codes are used for processing the frequency outputs from GYRE and ADIPLS. 
+MScR Project - Stellar rotation formalisms of γ Doradus stars from gravity-mode period spacings
+
+(Updated 14/12/2019)
+
+
+This repo contains the python codes used for processing the frequency outputs from GYRE and ADIPLS. 
 
 The output files must be named and organized according to the following convention:
 (if you're using the run_gyre and run_adipls tools in astero work directories, the files will be 
