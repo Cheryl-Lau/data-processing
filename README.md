@@ -18,8 +18,8 @@ Outputs for each model named as save_M_mm_O_oo_H_hh_R_rr_mode.data
 
 # Plot_mode_data.py
 
-A simple tool for plotting period spacing of two user-specified models on a single graph 
-- one for GYRE, one for ADIPLS
+A simple tool for plotting period spacing of two user-specified models on a single graph,
+one for GYRE, one for ADIPLS
 
 # Plot_mode_data_bench_grid.py
 
